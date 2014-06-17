@@ -14,7 +14,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Endpoint.publish("http://localhost:8080/jdkwsdemo/demo.JdkWebService", new Main()); 
-
+		//test commit
 	}
 
 }
